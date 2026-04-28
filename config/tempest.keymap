@@ -233,7 +233,7 @@
             label = "DEF";
             bindings = <
        &kp Q         &kp W            &kp E            &kp R                                  &kp T                                 &kp Y        &kp U                    &kp I            &kp O                &kp P
-&none  &hml LCTRL A  &hml LEFT_ALT S  &hml LEFT_GUI D  &hml_fast LEFT_SHIFT F                 &kp G                                 &kp H        &hmr_fast RIGHT_SHIFT J  &hmr LEFT_GUI K  &hmr LEFT_ALT L      &hmr RIGHT_CONTROL SEMICOLON  &kp Z
+&none  &hml LCTRL A  &hml LEFT_ALT S  &hml LEFT_GUI D  &hml_fast LEFT_SHIFT F                 &kp G                                 &kp H        &hmr_fast RIGHT_SHIFT J  &hmr LEFT_GUI K  &hmr LEFT_ALT L      &hmr RIGHT_CONTROL SEMICOLON  &kp Z &none
        &kp X         &kp C            &kp V            &kp B                                  &kp N                                 &kp M        &kp COMMA                &kp DOT          &as LS(SLASH) SLASH  &kp C
                                       &lt 1 BACKSPACE  &thumb_ht LS(LA(LC(LEFT_GUI))) ESCAPE  &thumb_ht LS(LA(LEFT_CONTROL)) ENTER  &lt 2 SPACE  &kp C
             >;
@@ -242,7 +242,7 @@
         arrows+braces {
             bindings = <
        &kp BACKSLASH           &kp HASH  &kp DOUBLE_QUOTES  &trans     &trans    &kp LEFT_BRACKET   &kp LEFT_PARENTHESIS  &kp LEFT_BRACE    &kp RIGHT_BRACKET  &kp BACKSLASH
-&none  &hml LCTRL EXCLAMATION  &kp LALT  &kp LGUI           &kp LSHFT  &trans    &kp LEFT           &kp DOWN              &kp UP            &kp RIGHT          &kp APOSTROPHE  &kp CARET
+&none  &hml LCTRL EXCLAMATION  &kp LALT  &kp LGUI           &kp LSHFT  &trans    &kp LEFT           &kp DOWN              &kp UP            &kp RIGHT          &kp APOSTROPHE  &kp CARET &none
        &kp DOLLAR              &kp AT    &trans             &trans     &kp PIPE  &kp COLON          &kp LESS_THAN         &kp GREATER_THAN  &kp GRAVE          &kp A
                                          &trans             &trans     &trans    &kp DOUBLE_QUOTES  &kp A
             >;
@@ -251,7 +251,7 @@
         numbers+symbols {
             bindings = <
        &kp PLUS                 &kp NUMBER_4            &kp N5                      &kp NUMBER_6              &kp STAR   &trans  &trans                         &trans                            &kp PERCENT              &trans
-&none  &hml LEFT_CONTROL MINUS  &hml LEFT_ALT NUMBER_1  &hml LEFT_COMMAND NUMBER_2  &hml LEFT_SHIFT NUMBER_3  &kp EQUAL  &trans  &hmr RIGHT_SHIFT LEFT_BRACKET  &hmr RIGHT_COMMAND RIGHT_BRACKET  &hmr LEFT_ALT AMPERSAND  &kp RIGHT_CONTROL  &kp UNDERSCORE
+&none  &hml LEFT_CONTROL MINUS  &hml LEFT_ALT NUMBER_1  &hml LEFT_COMMAND NUMBER_2  &hml LEFT_SHIFT NUMBER_3  &kp EQUAL  &trans  &hmr RIGHT_SHIFT LEFT_BRACKET  &hmr RIGHT_COMMAND RIGHT_BRACKET  &hmr LEFT_ALT AMPERSAND  &kp RIGHT_CONTROL  &kp UNDERSCORE &none
        &kp NUMBER_7             &kp NUMBER_8            &kp NUMBER_9                &kp EXCLAMATION           &trans     &trans  &trans                         &trans                            &trans                   &kp NUMBER_8
                                                         &trans                      &kp NUMBER_0              &trans     &trans  &kp A
             >;
@@ -269,7 +269,7 @@
         media_and_mouse {
             bindings = <
        &trans  &trans  &trans  &trans  &trans          &msc SCRL_UP    &kp C_VOLUME_UP   &kp K_MUTE    &kp C_VOL_DN          &kp C_BRIGHTNESS_INC
-&none  &trans  &trans  &trans  &trans  &trans          &mmv MOVE_LEFT  &mmv MOVE_DOWN    &mmv MOVE_UP  &mmv MOVE_RIGHT       &kp C_BRIGHTNESS_AUTO  &trans
+&none  &trans  &trans  &trans  &trans  &trans          &mmv MOVE_LEFT  &mmv MOVE_DOWN    &mmv MOVE_UP  &mmv MOVE_RIGHT       &kp C_BRIGHTNESS_AUTO  &trans &none
        &trans  &trans  &trans  &trans  &msc SCRL_DOWN  &kp C_PREV      &kp C_PLAY_PAUSE  &kp C_NEXT    &kp C_BRIGHTNESS_DEC  &kp A
                        &trans  &trans  &mkp LCLK       &mkp RCLK       &kp A
             >;
@@ -278,7 +278,7 @@
         system_danger {
             bindings = <
        &trans  &trans  &trans  &trans     &trans          &sys_reset    &bt BT_DISC 0  &bt BT_DISC 1   &bt BT_DISC 2  &bt BT_CLR
-&none  &trans  &trans  &trans  &trans     &bootloader     &bt BT_SEL 0  &bt BT_SEL 1   &bt BT_SEL 2    &trans         &trans      &none
+&none  &trans  &trans  &trans  &trans     &bootloader     &bt BT_SEL 0  &bt BT_SEL 1   &bt BT_SEL 2    &trans         &trans      &none &none
        &trans  &trans  &trans  &soft_off  &trans          &trans        &trans         &bt BT_CLR_ALL  &trans         &trans
                        &trans  &trans     &studio_unlock  &kp A
             >;
