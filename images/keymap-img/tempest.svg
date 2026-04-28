@@ -380,22 +380,20 @@ path.combo {
 <text x="0" y="24" class="key hold">⇧</text>
 </g>
 <g class="combo combopos-0">
-<path d="M538,157 l65,2" class="combo"/>
-<path d="M538,157 l-204,3" class="combo"/>
-<path d="M538,157 l121,-5" class="combo"/>
-<rect rx="6" ry="6" x="524" y="144" width="28" height="26" class="combo"/>
-<text x="538" y="157" class="combo tap">Gui+⎵</text>
+<path d="M734,150 l-38,1" class="combo"/>
+<path d="M734,150 l38,6" class="combo"/>
+<rect rx="6" ry="6" x="720" y="137" width="28" height="26" class="combo"/>
+<text x="734" y="150" class="combo tap">Gui+⎵</text>
 <a href="#funtions-btns-sys">
-<text x="538" y="168" class="combo hold layer-activator">funtions-btns-sys</text>
+<text x="734" y="161" class="combo hold layer-activator">funtions-btns-sys</text>
 </a></g>
 <g class="combo combopos-1">
-<path d="M381,167 l505,-11" class="combo"/>
-<path d="M381,167 l-270,18" class="combo"/>
-<path d="M381,167 l-216,-8" class="combo"/>
-<rect rx="6" ry="6" x="367" y="154" width="28" height="26" class="combo"/>
-<text x="381" y="167" class="combo tap">⌦</text>
+<path d="M203,150 l-38,6" class="combo"/>
+<path d="M203,150 l38,1" class="combo"/>
+<rect rx="6" ry="6" x="189" y="137" width="28" height="26" class="combo"/>
+<text x="203" y="150" class="combo tap">⌦</text>
 <a href="#media_and_mouse">
-<text x="381" y="178" class="combo hold layer-activator">media_and_mouse</text>
+<text x="203" y="161" class="combo hold layer-activator">media_and_mouse</text>
 </a></g>
 <g class="combo combopos-2">
 <path d="M201,38 l-43,6" class="combo"/>
@@ -406,22 +404,20 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-3">
-<path d="M678,94 l-38,6" class="combo"/>
-<path d="M678,94 l38,-7" class="combo"/>
-<rect rx="6" ry="6" x="664" y="81" width="28" height="26" class="combo"/>
-<text x="678" y="94" class="combo tap">Hyper+⎵</text>
+<path d="M735,94 l-39,1" class="combo"/>
+<path d="M735,94 l40,6" class="combo"/>
+<rect rx="6" ry="6" x="721" y="81" width="28" height="26" class="combo"/>
+<text x="735" y="94" class="combo tap">Hyper+⎵</text>
 </g>
 <g class="combo combopos-4">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-5">
-<rect rx="6" ry="6" x="100" y="104" width="28" height="26" class="combo"/>
-<text x="114" y="117" class="combo tap">↹</text>
+<rect rx="6" ry="6" x="159" y="80" width="28" height="26" class="combo"/>
+<text x="173" y="93" class="combo tap">↹</text>
 </g>
 <g class="combo combopos-6">
 <path d="M196,61 l-100,12" class="combo"/>
@@ -431,8 +427,8 @@ path.combo {
 <text x="196" y="61" class="combo tap layer-activator">system_danger</text>
 </a></g>
 <g class="combo combopos-7">
-<rect rx="6" ry="6" x="636" y="142" width="28" height="26" class="combo"/>
-<text x="650" y="155" class="combo tap">:</text>
+<rect rx="6" ry="6" x="748" y="136" width="28" height="26" class="combo"/>
+<text x="762" y="149" class="combo tap">:</text>
 </g>
 <g class="combo combopos-8">
 <rect rx="6" ry="6" x="157" y="24" width="28" height="26" class="combo"/>
@@ -609,16 +605,14 @@ path.combo {
 <text x="650" y="43" class="combo tap">]</text>
 </g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="273" y="142" width="28" height="26" class="combo"/>
-<text x="287" y="155" class="combo tap">&amp;rs_lambda_macro</text>
+<rect rx="6" ry="6" x="636" y="142" width="28" height="26" class="combo"/>
+<text x="650" y="155" class="combo tap">&amp;rs_lambda_macro</text>
 </g>
 <g class="combo combopos-4">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-5">
 <path d="M196,61 l-100,12" class="combo"/>
@@ -797,18 +791,16 @@ path.combo {
 <text x="231" y="34" class="combo tap">&amp;thick_arrow</text>
 </g>
 <g class="combo combopos-2">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-3">
-<path d="M144,106 l-42,18" class="combo"/>
-<path d="M144,106 l42,-15" class="combo"/>
-<rect rx="6" ry="6" x="130" y="93" width="28" height="26" class="combo"/>
-<text x="144" y="106" class="combo tap">=</text>
+<path d="M202,94 l-40,6" class="combo"/>
+<path d="M202,94 l39,1" class="combo"/>
+<rect rx="6" ry="6" x="188" y="81" width="28" height="26" class="combo"/>
+<text x="202" y="94" class="combo tap">=</text>
 </g>
 <g class="combo combopos-4">
 <path d="M196,61 l-100,12" class="combo"/>
@@ -929,23 +921,22 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">F9</text>
 </g>
-<g transform="translate(315, 160)" class="key held keypos-26">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
+<g transform="translate(315, 160)" class="key trans keypos-26">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
+<text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(622, 160)" class="key held keypos-27">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
-<text x="0" y="0" class="key held tap">LOCK</text>
+<g transform="translate(622, 160)" class="key keypos-27">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">LOCK</text>
 </g>
 <g transform="translate(678, 151)" class="key held keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
-<g transform="translate(734, 140)" class="key trans keypos-29">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(734, 140)" class="key held keypos-29">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
-<g transform="translate(790, 158) rotate(4.0)" class="key trans keypos-30">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(790, 158) rotate(4.0)" class="key held keypos-30">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
 <g transform="translate(844, 186) rotate(8.0)" class="key trans keypos-31">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -974,12 +965,10 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
 <g class="combo combopos-0">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-1">
 <path d="M196,61 l-100,12" class="combo"/>
@@ -1092,22 +1081,20 @@ path.combo {
 <tspan x="0" dy="-0.6em">BRIGHTNESS</tspan><tspan x="0" dy="1.2em">AUTO</tspan>
 </text>
 </g>
-<g transform="translate(905, 156) rotate(8.0)" class="key held keypos-21">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
+<g transform="translate(905, 156) rotate(8.0)" class="key keypos-21">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
-<g transform="translate(92, 186) rotate(-8.0)" class="key held keypos-22">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
+<g transform="translate(92, 186) rotate(-8.0)" class="key keypos-22">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
 <g transform="translate(147, 158) rotate(-4.0)" class="key held keypos-23">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
-<g transform="translate(203, 140)" class="key trans keypos-24">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(203, 140)" class="key held keypos-24">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
-<g transform="translate(259, 151)" class="key trans keypos-25">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(259, 151)" class="key held keypos-25">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
 </g>
 <g transform="translate(315, 160)" class="key trans keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -1162,12 +1149,10 @@ path.combo {
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g class="combo combopos-0">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-1">
 <path d="M196,61 l-100,12" class="combo"/>
@@ -1344,12 +1329,10 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
 <g class="combo combopos-0">
-<path d="M499,171 l388,-15" class="combo"/>
-<path d="M499,171 l-388,15" class="combo"/>
-<rect rx="6" ry="6" x="485" y="158" width="28" height="26" class="combo"/>
-<text x="499" y="171" class="combo tap">⌘C</text>
+<rect rx="6" ry="6" x="161" y="136" width="28" height="26" class="combo"/>
+<text x="175" y="149" class="combo tap">⌘C</text>
 <a href="#arrowsbraces">
-<text x="499" y="182" class="combo hold layer-activator">arrows+braces</text>
+<text x="175" y="160" class="combo hold layer-activator">arrows+braces</text>
 </a></g>
 <g class="combo combopos-1">
 <path d="M196,61 l-100,12" class="combo"/>
