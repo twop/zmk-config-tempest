@@ -36,7 +36,7 @@
             bindings = <&kp>, <&kp>;
 
             quick-tap-ms = <180>;
-            hold-trigger-key-positions = <0 1 2 3 4 14 10 11 12 13 14 20 21 22 23 24 5 6 7 8 9 15 16 17 18 19 25 26 27 28 29>;
+            hold-trigger-key-positions = <0 1 2 3 4 14 11 12 13 14 20 22 23 24 5 6 7 8 9 15 16 17 18 19 25 26 27 28 29 30 31>;
         };
 
         hml: left_homerow_mods {
@@ -48,7 +48,7 @@
             require-prior-idle-ms = <100>;
             bindings = <&kp>, <&kp>;
 
-            hold-trigger-key-positions = <5 6 7 8 9 15 16 17 18 19 25 26 27 28 29 30 31 32 33>;
+            hold-trigger-key-positions = <5 6 7 8 9 16 17 18 19 27 28 29 30 31 35 36 37 20>;
             hold-trigger-on-release;
         };
 
@@ -61,7 +61,7 @@
             require-prior-idle-ms = <100>;
             bindings = <&kp>, <&kp>;
 
-            hold-trigger-key-positions = <0 1 2 3 4 10 11 12 13 14 20 21 22 23 24 30 31 32 33>;
+            hold-trigger-key-positions = <0 1 2 3 4 11 12 13 14 22 23 24 32 33 25 26 15 34>;
             hold-trigger-on-release;
         };
 
@@ -85,7 +85,7 @@
             require-prior-idle-ms = <80>;
             bindings = <&kp>, <&kp>;
 
-            hold-trigger-key-positions = <5 6 7 8 9 15 16 17 18 19 25 26 27 28 29 30 31 32 33>;
+            hold-trigger-key-positions = <5 6 7 8 9 16 17 18 19 27 28 29 30 31 20 21>;
             hold-trigger-on-release;
             label = "HML_FAST";
         };
@@ -99,7 +99,7 @@
             require-prior-idle-ms = <80>;
             bindings = <&kp>, <&kp>;
 
-            hold-trigger-key-positions = <0 1 2 3 4 10 11 12 13 14 20 21 22 23 24 30 31 32 33>;
+            hold-trigger-key-positions = <0 1 2 3 4 10 11 12 13 14 22 23 24 32 33 25 26 15 34>;
             hold-trigger-on-release;
             label = "HMR_FAST";
         };
