@@ -33,12 +33,12 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, h: Sft+/, s: '?'}
-  - C
+  - ↹
   - {t: ⌫, h: arrows+braces}
   - {t: ESC, h: Meh+⌘}
   - {t: ENTER, h: Sft+Alt+⌃}
   - {t: ⎵, h: numbers+symbols}
-  - C
+  - {t: Hyper+⎵, h: ⇧}
   arrows+braces:
   - {t: \, s: '|'}
   - '#'
@@ -72,12 +72,12 @@ layers:
   - <
   - '>'
   - {t: '`', s: '~'}
-  - A
+  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '@'
-  - A
+  - '&parens_macro'
   numbers+symbols:
   - +
   - '4'
@@ -111,12 +111,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '8'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '0'
   - {t: ▽, type: trans}
   - {type: held}
-  - A
+  - {t: ▽, type: trans}
   funtions-btns-sys:
   - F12
   - F4
@@ -191,12 +191,12 @@ layers:
   - ⏯
   - ⏭
   - ☀↓
-  - A
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LClk
   - '&mkp RCLK'
-  - A
+  - {t: ▽, type: trans}
   system_danger:
   - {type: held}
   - {t: ▽, type: trans}
